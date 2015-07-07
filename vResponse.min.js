@@ -1,5 +1,5 @@
 /*!
-* Item: vResponsive 1.0 (https://github.com/zargaripour/vResponse)
+* Item: vResponsive 1.0.0 (https://github.com/zargaripour/vResponse)
 * Author: Hamed Zargaripour (http://zargaripour.ir)
 * Licensed under MIT
 */
