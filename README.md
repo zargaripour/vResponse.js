@@ -18,7 +18,8 @@ vResponse.js is a tiny simple jQuery plugin that makes it possible to create ver
 <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="vResponse.min.js"></script>
 ```
-### 3. Add trigger in a division by data-toggle="vResponse"
+
+### 3. Add trigger in a division by `data-toggle="vResponse"`
 ```html
 <div class="main" data-toggle="vResponse"></div>
 ```
