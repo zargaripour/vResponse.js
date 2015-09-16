@@ -5,7 +5,7 @@ vResponse.js is a tiny simple jQuery plugin that makes it possible to create ver
 - [jQuery 1.11.0+] (http://jquery.com/download/)
 
 ## Demo
-- [See Demo] (http://zargaripour.ir/demo/vResponse.js/)
+- [See Demo] (http://zargaripour.com/demo/vResponse.js/)
 
 ## Usage
 ### 1. Download vResponse.js
