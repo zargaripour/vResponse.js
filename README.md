@@ -1,5 +1,5 @@
 # vResponse.js v1.0
-vResponse.js is a tiny simple jQuery plugin that makes it possible to create vertical responsive divisions.
+vResponse.js is a tiny simple jQuery plugin that makes it possible to create animated vertical responsive divisions.
 
 ## Requirements
 - [jQuery 1.11.0+] (http://jquery.com/download/)
